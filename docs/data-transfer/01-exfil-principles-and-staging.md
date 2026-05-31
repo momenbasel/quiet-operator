@@ -1,3 +1,9 @@
+---
+title: "Exfil Principles & Staging"
+parent: "2. Data Transfer"
+nav_order: 1
+---
+
 # Exfiltration Principles & Staging
 
 *The strategy layer before any data moves - what to take, how to stage it, and the artifact trail each decision leaves.*

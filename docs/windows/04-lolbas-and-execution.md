@@ -1,3 +1,9 @@
+---
+title: "LOLBAS & Execution"
+parent: "3. Windows"
+nav_order: 4
+---
+
 # Windows LOLBAS & Signed-Binary Proxy Execution
 
 _Using Microsoft-signed binaries to execute payloads and move files, and the command-line plus parent-child telemetry that still catches it even when the binary is trusted._

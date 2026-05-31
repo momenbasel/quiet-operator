@@ -1,3 +1,9 @@
+---
+title: "base64 & Encoding Telemetry"
+parent: "5. Detection Mapping"
+nav_order: 2
+---
+
 # Base64 & Encoding Telemetry: What Defenders Log When You Encode Data
 
 _Base64 is encoding, not encryption. It does not hide data from a defender - it adds recognizable signal. This page traces exactly what host, network, and analytics telemetry records when an operator encodes data, and gives copy-pasteable detections for each layer._

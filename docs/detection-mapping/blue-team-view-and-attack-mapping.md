@@ -1,3 +1,9 @@
+---
+title: "Blue-Team View & ATT&CK Map"
+parent: "5. Detection Mapping"
+nav_order: 1
+---
+
 # Blue-Team View & MITRE ATT&CK Mapping
 
 *The defender's index to "Quiet Operator": every offensive technique page mapped to its ATT&CK IDs, the data sources that record it, and the highest-signal hunt that catches it.*

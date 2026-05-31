@@ -1,3 +1,9 @@
+---
+title: "Persistence Stealth"
+parent: "3. Windows"
+nav_order: 2
+---
+
 # Windows Persistence Stealth
 
 *Quiet Windows persistence mechanisms and the exact event trail each one leaves for a defender to hunt.*

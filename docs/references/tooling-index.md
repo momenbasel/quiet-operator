@@ -1,3 +1,9 @@
+---
+title: "Tooling Index"
+parent: References
+nav_order: 1
+---
+
 # Tooling Index
 
 *Curated reference of native, open-source, and defensive tools used across this repo, with OPSEC ratings and the telemetry each generates.*

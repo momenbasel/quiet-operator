@@ -1,3 +1,9 @@
+---
+title: "Malleable Profiles & Jitter"
+parent: "4. C2 Infrastructure"
+nav_order: 2
+---
+
 # Malleable Profiles, Sleep & Jitter
 
 *Shaping beacon traffic so it reads as a known-benign application, and accepting that the same transforms which fool a human analyst are exactly what a periodicity model and a JA3 hash catch. Profile choices are detection choices.*

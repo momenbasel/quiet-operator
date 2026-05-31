@@ -1,3 +1,9 @@
+---
+title: "EDR Evasion: AMSI & ETW"
+parent: "3. Windows"
+nav_order: 5
+---
+
 # Windows EDR Evasion: AMSI, ETW & Script-Block Logging
 
 *The script and EDR visibility layer on Windows, treated conceptually from the offense side and authoritatively from the defense side - because on a modern endpoint, every "bypass" of these controls is itself a loud, well-instrumented event.*

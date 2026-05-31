@@ -1,3 +1,9 @@
+---
+title: "HTTPS & Cloud Exfil"
+parent: "2. Data Transfer"
+nav_order: 4
+---
+
 # HTTPS & Cloud-Service Exfiltration
 
 *Blending data exfiltration into routine web and SaaS traffic - TLS hides the payload from content inspection, but metadata, volume, and destination reputation still betray it.*

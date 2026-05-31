@@ -1,3 +1,9 @@
+---
+title: "Encoding, Compression & Encryption"
+parent: "2. Data Transfer"
+nav_order: 2
+---
+
 # Encoding, Compression & Encryption for Transfer
 
 *The data-preparation layer between staging and transport, and an honest accounting of the telemetry each step emits. Encoding never hides data - it expands it and stamps it with a recognizable charset that defenders match on.*

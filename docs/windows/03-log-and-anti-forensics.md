@@ -1,3 +1,9 @@
+---
+title: "Log & Anti-Forensics"
+parent: "3. Windows"
+nav_order: 3
+---
+
 # Windows Log Evasion & Anti-Forensics
 
 *Honest accounting of Windows logging surfaces and the disproportionate cost of tampering. In centrally-collected environments the correct play is to avoid generating evidence, not to delete it - deletion is a louder, higher-fidelity signal than the activity it tries to hide.*

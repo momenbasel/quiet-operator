@@ -1,3 +1,9 @@
+---
+title: "Living Off the Land"
+parent: "1. Linux"
+nav_order: 5
+---
+
 # Living Off the Land on Linux (LOLBins/GTFOBins)
 
 *Driving native, already-trusted binaries to download, execute, and read files so no new tooling ever touches disk - and the exact command-line and process-tree telemetry that gives it away.*

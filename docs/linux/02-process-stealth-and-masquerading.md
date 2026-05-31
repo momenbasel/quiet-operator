@@ -1,3 +1,9 @@
+---
+title: "Process Stealth"
+parent: "1. Linux"
+nav_order: 2
+---
+
 # Linux Process Stealth & Masquerading
 
 *Hiding and disguising running processes on Linux - argv/comm manipulation, fileless execution, reparenting, kernel-thread impersonation - and the exact telemetry each trick emits.*

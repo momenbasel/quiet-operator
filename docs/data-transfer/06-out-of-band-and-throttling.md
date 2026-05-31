@@ -1,3 +1,9 @@
+---
+title: "Out-of-Band & Throttling"
+parent: "2. Data Transfer"
+nav_order: 6
+---
+
 # Out-of-Band Channels, Throttling & Egress Shaping
 
 *Rate, timing, and volume discipline - the meta-layer that determines whether an otherwise-fine transfer gets caught by behavioral analytics.*

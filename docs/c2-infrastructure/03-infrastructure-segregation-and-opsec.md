@@ -1,3 +1,9 @@
+---
+title: "Infrastructure Segregation"
+parent: "4. C2 Infrastructure"
+nav_order: 3
+---
+
 # C2 Infrastructure Segregation & Operational OPSEC
 
 _Tiered command-and-control infrastructure that limits blast radius and attribution, so the burn of one component does not collapse the engagement, paired with the threat-intelligence telemetry that correlates and deanonymizes sloppy infrastructure._

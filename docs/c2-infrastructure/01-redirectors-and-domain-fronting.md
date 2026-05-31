@@ -1,3 +1,9 @@
+---
+title: "Redirectors & Domain Fronting"
+parent: "4. C2 Infrastructure"
+nav_order: 1
+---
+
 # C2 Redirectors, Domains & Fronting
 
 _Hiding the team server behind redirectors, aged and categorized domains, and valid TLS so victim traffic never touches your real C2 - and the telemetry that exposes every one of those tricks._

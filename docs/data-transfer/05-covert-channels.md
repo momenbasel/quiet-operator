@@ -1,3 +1,9 @@
+---
+title: "Covert Channels"
+parent: "2. Data Transfer"
+nav_order: 5
+---
+
 # Covert Channels
 
 *Low-bandwidth, hard-to-spot channels for moving small secrets when normal egress is blocked - high effort, low throughput, niche use.*

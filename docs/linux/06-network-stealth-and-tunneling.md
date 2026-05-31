@@ -1,3 +1,9 @@
+---
+title: "Network Stealth & Tunneling"
+parent: "1. Linux"
+nav_order: 6
+---
+
 # Linux Network Stealth & Tunneling
 
 *Quiet egress and pivoting on Linux: choosing protocols that match the host baseline, building SSH and SOCKS tunnels that survive scrutiny, and understanding the NetFlow, Zeek, and TLS-fingerprint trail every connection leaves.*

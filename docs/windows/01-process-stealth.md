@@ -1,3 +1,9 @@
+---
+title: "Process Stealth"
+parent: "3. Windows"
+nav_order: 1
+---
+
 # Windows Process Stealth & Masquerading
 
 _Disguising process lineage, identity, and command line on Windows - and the kernel-backed telemetry that still names the real creator._

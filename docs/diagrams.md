@@ -1,3 +1,9 @@
+---
+title: "Diagrams"
+parent: References
+nav_order: 3
+---
+
 # Diagrams
 
 _Visual companions to the Quiet Operator thesis: stealth is telemetry management. Every diagram below pairs an offensive decision with the defensive signal it generates. GitHub renders the fenced `mermaid` blocks inline. Use only lab/RFC-5737 examples in any derived work._

@@ -1,3 +1,9 @@
+---
+title: "DNS Tunneling"
+parent: "2. Data Transfer"
+nav_order: 3
+---
+
 # DNS Tunneling & Exfiltration
 
 *Low-and-slow data egress encoded into DNS queries that ride out through the recursive resolver to an authoritative name server you control.*

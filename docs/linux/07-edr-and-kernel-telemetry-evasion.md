@@ -1,3 +1,9 @@
+---
+title: "EDR & Kernel Evasion"
+parent: "1. Linux"
+nav_order: 7
+---
+
 # Linux EDR & Kernel Telemetry Evasion
 
 *What Linux sensors actually observe at the syscall boundary, the narrow surface where userland tricks still buy you something, and why fully blinding a kernel sensor is a loud, kernel-level event the defender catches.*

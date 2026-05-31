@@ -1,3 +1,9 @@
+---
+title: "Operator OPSEC Model"
+parent: "0. Foundations"
+nav_order: 1
+---
+
 # The Operator OPSEC Model
 
 *Stealth is not invisibility. It is telemetry management and artifact budgeting under the assumption that a human hunter is reading the logs.*

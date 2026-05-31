@@ -1,3 +1,9 @@
+---
+title: "Threat Model & Telemetry"
+parent: "0. Foundations"
+nav_order: 3
+---
+
 # The Defender Threat Model: What Actually Gets Collected
 
 *A survey of modern defensive telemetry so the operator knows their adversary: where data is born, where it is forwarded, where it is stored, and where it is simply never collected.*

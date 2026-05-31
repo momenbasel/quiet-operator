@@ -1,3 +1,9 @@
+---
+title: "Authorization & ROE"
+parent: "0. Foundations"
+nav_order: 2
+---
+
 # Authorization, Scope & Rules of Engagement
 
 *The legal and operational guardrails that turn intrusion into an authorized engagement, and the agreed indicators that let the blue team tell you apart from a real adversary.*

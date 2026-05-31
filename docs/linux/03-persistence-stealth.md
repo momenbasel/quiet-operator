@@ -1,3 +1,9 @@
+---
+title: "Persistence Stealth"
+parent: "1. Linux"
+nav_order: 3
+---
+
 # Linux Persistence Stealth
 
 *Quiet persistence mechanisms on Linux, ranked by stealth and reliability, each paired with the exact forensic artifact it leaves and the hunt that catches it.*

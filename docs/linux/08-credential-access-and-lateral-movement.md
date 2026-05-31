@@ -1,3 +1,9 @@
+---
+title: "Credential Access & Lateral Movement"
+parent: "1. Linux"
+nav_order: 8
+---
+
 # Linux Credential Access & Quiet Lateral Movement
 
 *Harvest credentials from disk, memory, and agents, then move using existing trust so the auth telemetry stays flat instead of lighting up failed-auth and new-source-host alerts.*

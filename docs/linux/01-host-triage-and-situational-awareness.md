@@ -1,3 +1,9 @@
+---
+title: "Host Triage & Awareness"
+parent: "1. Linux"
+nav_order: 1
+---
+
 # Linux Host Triage & Quiet Situational Awareness
 
 _Reading a freshly-accessed Linux host without generating the recon burst that fires the first alert._

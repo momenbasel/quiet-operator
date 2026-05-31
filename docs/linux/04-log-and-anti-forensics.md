@@ -1,3 +1,9 @@
+---
+title: "Log & Anti-Forensics"
+parent: "1. Linux"
+nav_order: 4
+---
+
 # Linux Log Evasion & Anti-Forensics
 
 *An honest accounting of Linux log artifacts, why local tampering is itself a loud, high-signal IOC, and why the only quiet play is to never generate the log in the first place.*
