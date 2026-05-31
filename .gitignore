@@ -1,0 +1,12 @@
+# Operator scratch — never commit live engagement data
+*.local
+*.secret
+loot/
+scope/
+engagement-*/
+*.kirbi
+*.ccache
+*.pcap
+*.nessus
+.env
+.DS_Store
